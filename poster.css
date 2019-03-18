@@ -34,8 +34,8 @@ p {
 
 .color-block {
 	flex-basis: 24px;
-	top: -5px;
-	bottom: -5px;
+	top: -3px;
+	bottom: -3px;
 }
 
 .text-block {
